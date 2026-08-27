@@ -1,0 +1,4 @@
+name: PoCN_env
+dependencies:
+  - python
+  - ipykernel
