@@ -13,9 +13,11 @@ SEAMLESS is a computational framework designed to identify hidden structural vul
 This project applies the current SEAMLESS codebase to large-scale technological infrastructure networks, focusing on transportation systems and power grids. The objective is to determine whether adaptive topological vulnerability can identify structurally critical regions, nodes, or links that are not detected by classical centrality-based or degree-based approaches.
 
 ## Repo Structure
+```text
 PoCN_project/
 ├── README.md
 ├── report.pdf   
 ├── latex/       # LaTeX source and figures
 ├── code/        # source code
 └── data/        # output, post-processed data
+```
