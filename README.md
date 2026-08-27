@@ -1,5 +1,5 @@
 # Physics of Complex Networks
----
+
 ## Theoretical Project: 20. Swarmalators (different phases)
 **Score: 0.6**
 
@@ -11,3 +11,11 @@
 
 SEAMLESS is a computational framework designed to identify hidden structural vulnerabilities emerging under adaptive, distributed perturbations. Instead of relying only on static topological descriptors, the method dynamically probes how local failures reorganize dependency structures during fragmentation. The main quantity of interest is residual adaptive vulnerability: the component of fragility not explained by classical metrics such as degree, modularity, centrality, or standard robustness indicators.
 This project applies the current SEAMLESS codebase to large-scale technological infrastructure networks, focusing on transportation systems and power grids. The objective is to determine whether adaptive topological vulnerability can identify structurally critical regions, nodes, or links that are not detected by classical centrality-based or degree-based approaches.
+
+## Repo Structure
+PoCN_project/
+├── README.md
+├── report.pdf   
+├── latex/       # LaTeX source and figures
+├── code/        # source code
+└── data/        # output, post-processed data
