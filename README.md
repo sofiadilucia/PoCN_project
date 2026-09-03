@@ -1,12 +1,12 @@
 # Physics of Complex Networks
 
-## Theoretical Project: 20. Swarmalators (different phases)
+## 20. Swarmalators (different phases)
 **Score: 0.6**
 
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--017--01190--3-blue.svg)](https://doi.org/10.1038/s41467-017-01190-3)
 [![DOI](https://img.shields.io/badge/DOI-10.1209%2F0295--5075%2Fac8445-blue.svg)](https://iopscience.iop.org/article/10.1209/0295-5075/ac8445)
 
-## Data Project: 42. Adaptive vulnerability in transportation and power-grid networks with SEAMLESS
+## 42. Adaptive vulnerability in transportation and power-grid networks with SEAMLESS
 **Score: 1.2**
 
 SEAMLESS is a computational framework designed to identify hidden structural vulnerabilities emerging under adaptive, distributed perturbations. Instead of relying only on static topological descriptors, the method dynamically probes how local failures reorganize dependency structures during fragmentation. The main quantity of interest is residual adaptive vulnerability: the component of fragility not explained by classical metrics such as degree, modularity, centrality, or standard robustness indicators.
